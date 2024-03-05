@@ -1,0 +1,23 @@
+﻿  Subject.cpp
+C:\Users\penci\Documents\gitRepository\cs221\subjectSignUp\Subject.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\penci\Documents\gitRepository\cs221\subjectSignUp\Subject.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\penci\Documents\gitRepository\cs221\subjectSignUp\Subject.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  main.cpp
+C:\Users\penci\Documents\gitRepository\cs221\subjectSignUp\main.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\penci\Documents\gitRepository\cs221\subjectSignUp\Subject.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'main.cpp')
+  
+C:\Users\penci\Documents\gitRepository\cs221\subjectSignUp\Subject.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'main.cpp')
+  
+C:\Users\penci\Documents\gitRepository\cs221\subjectSignUp\Subject.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'main.cpp')
+  
+C:\Users\penci\Documents\gitRepository\cs221\subjectSignUp\main.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\penci\Documents\gitRepository\cs221\subjectSignUp\main.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\penci\Documents\gitRepository\cs221\subjectSignUp\main.cpp(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\penci\Documents\gitRepository\cs221\subjectSignUp\main.cpp(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+  subjectSignUp.vcxproj -> C:\Users\penci\Documents\gitRepository\cs221\subjectSignUp\x64\Debug\subjectSignUp.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
